@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+		<xmlan version="1.9.9BETA" framesize="600" flags="01">
+			<pane name="IconCfgPic" type="0">
+				<tag type="RLPA">
+					<entry type1="0" type2="Y Translation">
+						<triplet>
+							<frame>0.000000000000000</frame>
+							<value>-24.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>150.000000000000000</frame>
+							<value>-20.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>300.000000000000000</frame>
+							<value>-24.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>450.000000000000000</frame>
+							<value>-20.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>600.000000000000000</frame>
+							<value>-24.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+					</entry>
+				</tag>
+			</pane>
+			<pane name="IconSdPic" type="0">
+				<tag type="RLVC">
+					<entry type1="0" type2="16">
+						<triplet>
+							<frame>0.000000000000000</frame>
+							<value>255.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>200.000000000000000</frame>
+							<value>255.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>300.000000000000000</frame>
+							<value>0.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>500.000000000000000</frame>
+							<value>0.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>600.000000000000000</frame>
+							<value>255.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+					</entry>
+				</tag>
+			</pane>
+			<pane name="IconUsbPic" type="0">
+				<tag type="RLVC">
+					<entry type1="0" type2="16">
+						<triplet>
+							<frame>0.000000000000000</frame>
+							<value>0.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>200.000000000000000</frame>
+							<value>0.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>300.000000000000000</frame>
+							<value>255.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>500.000000000000000</frame>
+							<value>255.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>600.000000000000000</frame>
+							<value>0.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+					</entry>
+				</tag>
+			</pane>
+		</xmlan>
